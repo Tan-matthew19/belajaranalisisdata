@@ -19,4 +19,8 @@ Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
-
+### 3. Run the Dashboard:
+Start the Streamlit app by running:
+```bash
+streamlit run dashboard.py
+```
