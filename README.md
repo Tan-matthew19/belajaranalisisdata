@@ -12,7 +12,6 @@ Interactive Date Filters: Customize analysis by date range.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/air-quality-dashboard.git
-cd Dashboard
 ```
 ### 2. Install Dependencies
 Install the required Python packages:
